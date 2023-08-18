@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		52283BB82A8DDEEA003942F2 /* Travel_EraApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52283BB72A8DDEEA003942F2 /* Travel_EraApp.swift */; };
-		52283BBA2A8DDEEA003942F2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52283BB92A8DDEEA003942F2 /* ContentView.swift */; };
 		52283BBF2A8DDEEC003942F2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52283BBE2A8DDEEC003942F2 /* Preview Assets.xcassets */; };
 		5274BED32A8F224D00775B4B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5274BED22A8F224C00775B4B /* Assets.xcassets */; };
 		5274BED82A8F22FE00775B4B /* locations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5274BED72A8F22FE00775B4B /* locations.swift */; };
@@ -24,7 +23,6 @@
 /* Begin PBXFileReference section */
 		52283BB42A8DDEEA003942F2 /* Travel Era.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Travel Era.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		52283BB72A8DDEEA003942F2 /* Travel_EraApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Travel_EraApp.swift; sourceTree = "<group>"; };
-		52283BB92A8DDEEA003942F2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		52283BBE2A8DDEEC003942F2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		5274BED22A8F224C00775B4B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "../../../Downloads/b6dc374-3b0b-6bdc-3b7f-f7ce4c005a_SwiftfulMapApp-Downloads/Assets.xcassets"; sourceTree = "<group>"; };
 		5274BED72A8F22FE00775B4B /* locations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = locations.swift; sourceTree = "<group>"; };
@@ -74,7 +72,6 @@
 				5274BED52A8F22D200775B4B /* Views */,
 				5274BED42A8F22C700775B4B /* Models */,
 				52283BB72A8DDEEA003942F2 /* Travel_EraApp.swift */,
-				52283BB92A8DDEEA003942F2 /* ContentView.swift */,
 				5274BED22A8F224C00775B4B /* Assets.xcassets */,
 				52283BBD2A8DDEEC003942F2 /* Preview Content */,
 			);
@@ -200,7 +197,6 @@
 				5274BEE72A8F72FF00775B4B /* LocationDetalisView.swift in Sources */,
 				5274BEE12A8F2F5300775B4B /* locationListView.swift in Sources */,
 				5274BEE32A8F610600775B4B /* locationPreviewView.swift in Sources */,
-				52283BBA2A8DDEEA003942F2 /* ContentView.swift in Sources */,
 				5274BEDD2A8F253900775B4B /* locationView.swift in Sources */,
 				5274BEDF2A8F255300775B4B /* locationViewModel.swift in Sources */,
 				5274BED82A8F22FE00775B4B /* locations.swift in Sources */,
