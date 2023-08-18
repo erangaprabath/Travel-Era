@@ -13,6 +13,7 @@ struct Travel_EraApp: App {
     var body: some Scene {
         WindowGroup {
             locationView()
+                .preferredColorScheme(.light)
                 .environmentObject(viewModel)
         }
     }
